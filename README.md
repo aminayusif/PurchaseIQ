@@ -1,4 +1,4 @@
-PurchaseIQ 📊🛒
+### PurchaseIQ 📊🛒
 
 Predictive marketing using customer segmentation and anomaly detection on e-commerce data.
 
