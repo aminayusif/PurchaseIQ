@@ -40,11 +40,11 @@ You can run this notebook in Google Colab ☁️ or any Python environment 🐍 
 
 Steps:
 
-# 1️⃣ Clone the repository (if applicable)
+ 1️⃣ Clone the repository (if applicable)
 git clone https://github.com/aminayusif/purchaseiq.git
 cd purchaseiq
 
-# 2️⃣ Install dependencies
+ 2️⃣ Install dependencies
 pip install -r requirements.txt
 Then:
 
