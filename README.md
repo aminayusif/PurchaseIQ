@@ -1,32 +1,41 @@
-### PurchaseIQ 📊🛒
+## PurchaseIQ 📊🛒
 
 Predictive marketing using customer segmentation and anomaly detection on e-commerce data.
 
-📑 Project Structure
+### 📑 Project Structure
 
 📂 Data Loading and Exploration
+
 📥 Load the dataset and explore its structure.
+
 🔍 Identify potential issues such as missing values or inconsistent formats.
 
-🛠 Data Preprocessing
+### 🛠 Data Preprocessing
 🧹 Handle missing values.
+
 🏷 Encode categorical features.
+
 📏 Scale numerical features for clustering and anomaly detection.
 
-👥 Customer Segmentation (K-Means Clustering)
+
+### 👥 Customer Segmentation (K-Means Clustering)
 
 🌀 Apply K-Means to segment customers.
+
 📊 Analyze characteristics of each segment.
 
-🚨 Anomaly Detection (Isolation Forest)
+
+### 🚨 Anomaly Detection (Isolation Forest)
+
 🌲 Use Isolation Forest to detect unusual orders or customer behavior.
+
 🕵️ Investigate anomalies for potential fraud or unique buying patterns.
 
-💡 Marketing Recommendations
+### 💡 Marketing Recommendations
 
 🎯 Generate targeted marketing strategies based on segments and anomalies.
 
-⚙️ How to Use
+### ⚙️ How to Use
 You can run this notebook in Google Colab ☁️ or any Python environment 🐍 with the required libraries installed.
 
 Steps:
@@ -43,7 +52,7 @@ Then:
 
 ▶️ Run the notebook cells sequentially.
 
-📦 Dependencies
+### 📦 Dependencies
 
 🐼 pandas
 🔢 numpy
